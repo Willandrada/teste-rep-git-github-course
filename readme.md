@@ -3,4 +3,8 @@ teste do curso de git
 
 Segundo teste do arquivo para aula de Github
 
-Arquivo testev para o mostrar como o Git funciona.
+Arquivo teste para o mostrar como o Git funciona.
+
+Saiba mais em XPTO
+
+feedback sobre o curso até agora?
